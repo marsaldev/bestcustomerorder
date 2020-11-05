@@ -1,5 +1,3 @@
-# bestcustomerorder
-
 # Show an alert in order page (BO) if customer is a best customer
 
 ## About
